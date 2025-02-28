@@ -177,29 +177,37 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: "Software Engineer",
-      company: "Facebook",
-      companylogo: require("./assets/images/facebookLogo.png"),
-      date: "June 2018 – Present",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      role: "Game Designer Intern",
+      company: "Mindstrom Studios",
+      companylogo: require("./assets/images/mindstorm.jpeg"),
+      date: " June 2024 – Aug 2024",
+      desc: "Created a 2D pixelated dart game using Unity and C# for Android and iOS platforms.",
       descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+        "Designed game screens and created pixel art assets",
+        "Implemented game mechanics and scoring system",
       ]
     },
     {
-      role: "Front-End Developer",
-      company: "Quora",
-      companylogo: require("./assets/images/quoraLogo.png"),
-      date: "May 2017 – May 2018",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      role: "Student Lab Assistant",
+      company: "FAST National University",
+      companylogo: require("./assets/images/National_University_of_Computer_and_Emerging_Sciences_logo.png"),
+      date: "August 2022 – January 2023",
+      desc: "Co-taught Programming Fundamentals course to first-year students and graded assignments.",
+      descBullets: [
+        "Held office hours to help students with programming assignments",
+        "Assisted in creating and grading exams"
+      ]
     },
     {
-      role: "Software Engineer Intern",
-      company: "Airbnb",
-      companylogo: require("./assets/images/airbnbLogo.png"),
-      date: "Jan 2015 – Sep 2015",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      role: "Student Teaching Assistant",
+      company: "FAST National University",
+      companylogo: require("./assets/images/National_University_of_Computer_and_Emerging_Sciences_logo.png"),
+      date: " August 2021 – August 2022",
+      desc: "Graded quizzes and assignments for Computer Organization and Assembly Language course.",
+      descBullets: [
+        "Held review sessions to help students prepare for exams",
+        "Assisted in creating and grading exams"
+      ]
     }
   ]
 };
@@ -282,16 +290,15 @@ const achievementSection = {
     },
 
     {
-      title: "PWA Web App Developer",
-      subtitle: "Completed Certifcation from SMIT for PWA Web App Development",
-      image: require("./assets/images/pwaLogo.webp"),
+      title: "Python Data Structures",
+      subtitle: "Learned about Python data structures like lists, dictionaries, and tuples",
+      image: require("./assets/images/Coursera.png"),
       imageAlt: "PWA Logo",
       footerLink: [
-        {name: "Certification", url: ""},
         {
-          name: "Final Project",
-          url: "https://pakistan-olx-1.firebaseapp.com/"
-        }
+          name: "Certification", 
+          url: "https://coursera.org/share/97b77911dfc629c1ac3d063c3fa161de"
+        },
       ]
     }
   ],
