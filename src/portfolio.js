@@ -26,7 +26,7 @@ const greeting = {
     "A passionate Software Developer 🚀 with experience in building Web and Mobile applications backend using Python, JavaScript, Django, Flutter, and other cutting-edge technologies, with a strong background in cybersecurity and networking."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/14ExW-rHeN4I0gh6kyTsND3xOx2hrpQSG/view?usp=drive_link", // Set to empty to hide the button
+    "https://drive.google.com/file/d/19lZL1muEj6MQgakGCVoMOwgbbtwqjFgV/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
