@@ -35,7 +35,7 @@ const greeting = {
 const socialMediaLinks = {
   github: "https://github.com/WahajK",
   linkedin: "https://www.linkedin.com/in/molover/",
-  gmail: "wahajkhan788@gmail.com",
+  gmail: "contact@wahajkhan.me",
   // medium: "https://medium.com/@saadpasta",
   stackoverflow: "https://stackoverflow.com/users/10422806/saad-pasta",
   // Instagram, Twitter and Kaggle are also supported in the links!
@@ -381,7 +381,7 @@ const contactInfo = {
   subtitle:
     "Discuss a project or just want to say hi? My Inbox is open for all.",
   number: "+49-17625061000",
-  email_address: "wahajkhan788@gmail.com"
+  email_address: "contact@wahajkhan.me"
 };
 
 // Twitter Section
