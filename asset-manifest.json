@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.7aa5a413.css",
-    "main.js": "/static/js/main.d985a32a.js",
+    "main.js": "/static/js/main.025d680f.js",
     "static/css/64.5a0c9d98.chunk.css": "/static/css/64.5a0c9d98.chunk.css",
     "static/js/64.41912c0a.chunk.js": "/static/js/64.41912c0a.chunk.js",
     "static/css/769.b3cbb36b.chunk.css": "/static/css/769.b3cbb36b.chunk.css",
     "static/js/769.6b18baac.chunk.js": "/static/js/769.6b18baac.chunk.js",
     "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
     "static/media/nccs_ned_logo.jpeg": "/static/media/nccs_ned_logo.2ac9412a96b22e64622b.jpeg",
-    "static/media/resume.pdf": "/static/media/resume.30dda5c23e1186cef992.pdf",
+    "static/media/resume.pdf": "/static/media/resume.20eccd07807e723a989d.pdf",
     "static/media/National_University_of_Computer_and_Emerging_Sciences_logo.png": "/static/media/National_University_of_Computer_and_Emerging_Sciences_logo.4c0caf42be465aaa75cb.png",
     "static/media/Agustina.woff": "/static/media/Agustina.eb0c59dda4cc308cba96.woff",
     "static/media/manOnTable.svg": "/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
@@ -23,7 +23,7 @@
     "static/media/nextuLogo.webp": "/static/media/nextuLogo.e033dbfa4c58c0a906aa.webp",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.7aa5a413.css.map": "/static/css/main.7aa5a413.css.map",
-    "main.d985a32a.js.map": "/static/js/main.d985a32a.js.map",
+    "main.025d680f.js.map": "/static/js/main.025d680f.js.map",
     "64.5a0c9d98.chunk.css.map": "/static/css/64.5a0c9d98.chunk.css.map",
     "64.41912c0a.chunk.js.map": "/static/js/64.41912c0a.chunk.js.map",
     "769.b3cbb36b.chunk.css.map": "/static/css/769.b3cbb36b.chunk.css.map",
@@ -31,6 +31,6 @@
   },
   "entrypoints": [
     "static/css/main.7aa5a413.css",
-    "static/js/main.d985a32a.js"
+    "static/js/main.025d680f.js"
   ]
 }
